@@ -1,3 +1,6 @@
+my heroku url is https://git.heroku.com/eecs1720lab3jiaxi.git
+
+
 # Setup Instructions
 
 The steps we need for deploying the webapp on heroku, testing locally with localhost, and the files you will use within the python virtual environment. Remember - we need to _package_ the content to deploy the app.. you probably definitely might want to read:
